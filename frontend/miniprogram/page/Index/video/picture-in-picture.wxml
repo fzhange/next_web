@@ -1,8 +1,0 @@
-<import src="../../../common/head.wxml" />
-<import src="../../../common/foot.wxml" />
-
-<view class="container">
-  <text class="desc">
-    小窗模式
-  </text>
-</view>
